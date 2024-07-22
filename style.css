@@ -2,7 +2,7 @@
     border: 1px solid rgb(2, 253, 144);
     background-color: rgb(1, 255, 115);
     width: 600px;
-    padding: 100px;
+    padding: 80px;
     border-radius:11px;
     margin: 80px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -16,7 +16,7 @@
 
 .btn{
     background-color: white;
-    border: 1px solid lightgray;
+    border: 2px solid lightgray;
     padding: 16px 30px;
     font-size: 20px;
     border-radius: 40px;
