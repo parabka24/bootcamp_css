@@ -1,11 +1,16 @@
 .heading{
     border: 1px solid rgb(2, 253, 144);
     background-color: rgb(1, 255, 115);
-    width: 400px;
+    width: 480px;
     padding: 100px;
     border-radius:11px;
     margin: 100px auto;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 3px;
+    font-size: 150%;
+}
+.para{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .btn{
