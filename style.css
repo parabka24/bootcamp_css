@@ -1,0 +1,8 @@
+.heading{
+    border: 1px solid lightgray;
+    width: 300px;
+    padding: 10px;
+    border-radius:14px;
+    margin: 50px auto;
+    font-family: sans-serif;
+}
