@@ -1,0 +1,42 @@
+.outer-box{
+    font-family:Arial, Helvetica, sans-serif;
+    width: 300px;
+    border: 1px solid rgb(170, 169, 169);
+    margin: 10px auto;
+    border-radius: 7px;
+    }
+    img{
+    width: 100%;
+    }
+    .b-heading{
+    width: 10%;
+    }
+    h4{
+    font-size: 20px;
+    padding: 0px 15px;
+    }
+    p{
+    padding: 0px 15px;
+    color: rgb(116, 114, 114);
+    }
+    button{
+    margin: 10px;
+    padding: 10px;
+    width: 40%;
+    border-radius: 7px;
+    border: 1px solid gray;
+    color: rgb(6, 73, 218);
+    font-weight: bold;
+    font-size: 14px;
+    }
+    .lock{
+    display: inline-block;
+    color: rgb(81, 80, 80);
+    font-weight: bold;
+    }
+    .text{
+    width: 90%;
+    }
+    .img{
+    width: 10%;
+    }
