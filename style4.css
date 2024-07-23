@@ -36,3 +36,13 @@
 .text{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+.links a {
+    color: #000000;
+    margin-bottom: 20%;
+}
+.new-links{
+    color: #7e7d7d;
+}
+.new-links a {
+    color: #7e7d7d;
+}
