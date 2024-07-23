@@ -1,0 +1,17 @@
+.mains{
+    border: 1px solid lightgray;
+    width: 600px;
+    padding: 10px;
+    border-radius:14px;
+    margin: 50px auto;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+}
+.prof{
+    width: 300px;
+    border-top: 1px solid lightgray;
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    letter-spacing: 1px;
+}
