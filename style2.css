@@ -8,10 +8,15 @@
     font-size: 30px;
 }
 .prof{
-    width: 300px;
+    width: 590px;
+    padding: 10px;
     border-top: 1px solid lightgray;
     color: blue;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 25px;
     letter-spacing: 1px;
+}
+.para{
+    font-size: 18px;
+    margin-top: 13px;
 }
