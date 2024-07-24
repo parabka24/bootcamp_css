@@ -30,7 +30,8 @@
 }
 .info{
     width: 600px;
-    transform: translateX(26%);
+    transform: translateX(24%);
     margin: 0 auto;
+    font-size: large;
     font-family: 'Courier New', Courier, monospace;
 }
