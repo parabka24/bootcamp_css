@@ -21,3 +21,16 @@
     transform: translateX(125%);
     border: 5px solid white;
 }
+.header{
+    width: 600px;
+    padding-top: 58px;
+    transform: translateX(35%);
+    margin: 0 auto;
+    font-family: 'Courier New', Courier, monospace;
+}
+.info{
+    width: 600px;
+    transform: translateX(26%);
+    margin: 0 auto;
+    font-family: 'Courier New', Courier, monospace;
+}
