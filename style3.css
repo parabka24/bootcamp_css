@@ -3,7 +3,8 @@
     width: 300px;
     border: 1px solid rgb(170, 169, 169);
     margin: 10px auto;
-    border-radius: 7px;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
     }
     img{
     width: 100%;
