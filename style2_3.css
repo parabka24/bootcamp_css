@@ -1,0 +1,21 @@
+body{
+    font-family: sans-serif;
+}
+.card{
+    border: 1px solid lightgray;
+    padding: 5px;
+    border-radius: 14px;
+    margin: 10px auto;
+    width: 420px;
+}
+.card-img{
+    width: 100%;
+    border-radius: 14px;
+}
+.head{
+    font-size: x-large;
+}
+.text{
+    color: gray;
+    font-size: larger;
+}
