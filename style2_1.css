@@ -1,0 +1,23 @@
+.profile{
+    position: relative;
+    width: 600px;
+    margin: 0 auto;
+}
+.cover{
+    width: 100%;
+    height: 160px;
+    object-fit: cover;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.user{
+    height: 120px;
+    width: 120px;
+    object-fit: cover;
+    border-radius: 50%;
+    position: absolute;
+    bottom: -60px;
+    left: 60px;
+    transform: translateX(125%);
+    border: 5px solid white;
+}
